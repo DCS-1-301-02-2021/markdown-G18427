@@ -10,13 +10,11 @@
 
 ### ・プログラミングを学ぶための多くのPC
 
-
 ![Art Text](https://feng.takushoku-u.ac.jp/albums/abm00014693.jpg)
 
 [*拓殖大学工学部情報工学科　公式サイト*](https://feng.takushoku-u.ac.jp/course/cs/)
 
  :+1:
-
 
  各教室のPC台数 | Windows | Mac
  ------------ | ------------- | ---------
