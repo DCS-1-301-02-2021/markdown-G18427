@@ -1,14 +1,14 @@
 # **情報工学科の紹介**
 
-##1.キャンパスが広い
+## 1.キャンパスが広い
 
-###・多くの建物、体育館、グラウンドなど
+### ・多くの建物、体育館、グラウンドなど
 
 ![Art Text](https://www.takushoku-u.ac.jp/summary/images/397_hachioji_campus_img.gif)
 
-##2.設備が整っている
+## 2.設備が整っている
 
-###・プログラミングを学ぶための多くのPC
+### ・プログラミングを学ぶための多くのPC
 
 
 ![Art Text](https://feng.takushoku-u.ac.jp/albums/abm00014693.jpg)
