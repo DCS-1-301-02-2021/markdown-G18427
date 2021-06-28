@@ -10,6 +10,7 @@
 
 ###・プログラミングを学ぶための多くのPC
 
+
 ![Art Text](https://feng.takushoku-u.ac.jp/albums/abm00014693.jpg)
 　
 　
