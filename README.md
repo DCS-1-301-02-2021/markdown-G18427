@@ -1,14 +1,22 @@
 # **情報工学科の紹介**
+
 ##1.キャンパスが広い
+
 ###・多くの建物、体育館、グラウンドなど
+
 ![Art Text](https://www.takushoku-u.ac.jp/summary/images/397_hachioji_campus_img.gif)
+
 ##2.設備が整っている
+
 ###・プログラミングを学ぶための多くのPC
+
 ![Art Text](https://feng.takushoku-u.ac.jp/albums/abm00014693.jpg)
 　
 　
 　
-[*拓殖大学工学部情報工学科　公式サイト*](https://feng.takushoku-u.ac.jp/course/cs/) :+1:
+[*拓殖大学工学部情報工学科　公式サイト*](https://feng.takushoku-u.ac.jp/course/cs/)
+
+ :+1:
 
  各教室のPC台数 | Windows | Mac
  ------------ | ------------- | ---------
